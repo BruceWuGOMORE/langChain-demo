@@ -31,7 +31,7 @@
 
 ```env
 # 範例 (請替換為您的實際 Key)
-OPENAI_API_KEY=sk-proj-QVQ49rgjjlCZOUDSVxASNahe4VsJbvEOsBDCDMPVr_vRdUrBGTkDE_pWA1s0Ux0W2XtGtB984T3BlbkFJwJWSgDoyGxuhfzaPc3QXwC2ukzR7dsq9LJNcH9F2BMiyXc66123QvkWv1T0MdAOMsVcVJEcXgA
+OPENAI_API_KEY=...
 
 # 確保同時配置 LangSmith 和 Tavily 的 Key
 TAVILY_API_KEY=...
