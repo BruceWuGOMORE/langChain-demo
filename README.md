@@ -1,1 +1,1 @@
-# lg-demo
+# AI Agent Demo
